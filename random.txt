@@ -1,0 +1,4 @@
+{
+    "action":[ "spotify-this-song", "concert-this", "movie-this"], 
+    "term": [ "i want it that way", "snoop dogg", "aladdin"]
+}
